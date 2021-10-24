@@ -28,3 +28,8 @@ arr.forEach(item => {
 
 
 
+
+const person = {
+    myName: 'Nara'
+}
+// shows cleary committed or not
